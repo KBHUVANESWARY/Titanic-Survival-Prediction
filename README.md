@@ -1,4 +1,4 @@
-Titanic Survival Prediction
+🚢 Titanic Survival Prediction
 This project predicts the survival of passengers aboard the Titanic using machine learning models based on the famous Titanic dataset from Kaggle.
 
 📌 Objective
@@ -119,4 +119,3 @@ Hyperparameter tuning using GridSearchCV
 Ensemble methods
 
 Deep learning model using TensorFlow or PyTorch
-
